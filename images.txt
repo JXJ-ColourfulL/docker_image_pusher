@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nginx
+scottyhardy/docker-wine:stable-8.0.2
