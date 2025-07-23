@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-scottyhardy/docker-wine:stable-8.0.2
+docker.io/library/golang:1.23-alpine
